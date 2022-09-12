@@ -1,0 +1,205 @@
+@media only screen and (max-width: 480px){
+.wrapper{
+  max-width:none;
+  padding: 0 30px;
+}
+
+.textbody{
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.textbody h1{
+  font-size: 20px;
+}
+
+.textbody a{
+  font-size: 13px;
+}
+
+.textbody p{
+  font-size: 13px;
+  margin-top:26px;
+  margin-bottom:41px;
+}
+
+.spisok{
+  display: none;
+}
+
+.about{
+  padding-bottom: 20px;
+  padding-top:25px;
+}
+
+.headertop{
+  display: flex;
+  justify-content:space-between ;
+  align-items: center;
+  margin-bottom: 50px;
+  padding-top: 40px;
+}
+
+.header{
+  text-align: center;
+}
+
+.headertop > img {
+  margin: auto;
+}
+
+.aboutText{
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+
+#topHe{
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.skills{
+  padding-top: 25px;
+}
+
+.skills img{
+  margin: 0 auto;
+  width: 85%;
+  height: 85%;
+  margin-bottom: 15px;
+}
+
+.skills > .wrapper {
+  padding-bottom: 25px;
+}
+
+.innerGg{
+  display: flex;
+  flex-direction: column;
+}
+
+.innerGg h2{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.rightSide{
+  margin-left: 16px;
+  line-height: 25px;
+}
+
+.leftSide h2:first-of-type, .rightSide h2:first-of-type{
+  margin-bottom:35px ;
+}
+
+.leftSide h2{
+  font-weight: 600;
+  min-width:100%;
+  line-height: 25px;
+  }
+
+.textCont{
+  display: flex;
+}
+
+.bar{
+  display: flex;
+  width: 100%;
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.portfolio{
+ padding: 25px 0px;
+}
+
+.portfContent p{
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  padding-bottom: 25px;
+}
+
+.portfolio h2{
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+}
+
+.portfContent{
+  display: flex;
+  margin-top: 15px;
+  flex-direction: column;
+}
+
+.rightPics{
+  /* width: 100%; */
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  gap: 0px;
+  padding: 0%;
+  justify-content: space-between;
+}
+.left{
+display: flex;
+flex-direction: column;
+}
+.right{
+display: flex;
+flex-direction: column;
+}
+
+.one{
+  width: 190px;
+  height: 70px;
+  margin-bottom: 12px;
+}
+.two{
+  width: 190px;
+  height: 120px;
+}
+.three{
+  width: 125px;
+  height: 120px;
+  margin-bottom: 12px;
+}
+.four{
+  width: 125px;
+  height: 70px;
+}
+
+.getIn{
+  padding-top: 26px;
+}
+
+.lists{
+  display: flex;
+  padding-bottom: 50px;
+  margin-top:25px ;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+}
+
+li{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 19px;
+  list-style: none;
+  }
+
+.liO{
+    margin-left: 0px;
+    }
+
+.liThree{
+  width:100%;
+  margin-top:30px ;
+}
+
+.liT{
+  margin-left: 105px;
+}
+    
+}
+
